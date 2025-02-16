@@ -1,0 +1,22 @@
+This repository contains a Jupyter Notebook titled IV REVIEW2.ipynb, which is designed to analyze, process, or review [insert relevant data/project context here]. The notebook may include code, visualizations, and detailed explanations to support its purpose.
+
+Prerequisites
+
+Before running the notebook, make sure you have the following installed:
+
+Python 3.7 or higher
+
+Jupyter Notebook or JupyterLab
+
+Required Python libraries (listed in the requirements.txt or inside the notebook):
+
+numpy
+
+pandas
+
+matplotlib
+
+
+
+You can install the required libraries using:
+pip install r requirements.txt
